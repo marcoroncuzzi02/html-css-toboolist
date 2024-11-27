@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+}
+header h1{
+    display: inline-block;
+    font-weight: 300 bold;
+    
+}
+.middle{
+    vertical-align: middle;
+}
+/* main {
+    background: rgba(132, 74, 74, 0.9);
+} */
+
+/* .container{
+    margin: 100px auto;
+    margin-bottom: 100px;
+    background-color: white;
+} */
+
+/* .section-one div{
+    display: inline-block;
+    border: solid 1px;
+    border-radius: 3%;
+    width: 50px;
+    height: 20px;
+    margin-right: 10px; */
+    /* padding: 5px; */
+/* } */
+.lightblue {
+    display: inline-block;
+    border: solid 1px;
+    border-radius: 8%;
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+    background: blue;
+    color: white;
+}
+.lightgrey{
+    display: inline-block;
+    border: solid 1px;
+    border-radius: 8%;
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+    color: lightgray;
+    border-color: lightgray;
+}
+main section{
+    margin-bottom: 20px;
+}
+.section-one{
+    border-bottom: 1px solid black;
+} 
+.editorial {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: blue;
+    border: solid 1px;
+    border-radius: 15%;
+    display: inline-block;
+}
+.purple {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: purple;
+    border: solid 1px;
+    border-radius: 15%;
+    display: inline-block;
+}
+.green {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: green;
+    border: solid 1px;
+    border-radius: 15%;
+    display: inline-block;
+}
+.orange {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: orange;
+    border: solid 1px;
+    border-radius: 15%;
+    display: inline-block;
+}
