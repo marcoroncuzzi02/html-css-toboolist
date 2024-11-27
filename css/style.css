@@ -90,3 +90,21 @@ main section{
     border-radius: 15%;
     display: inline-block;
 }
+.pink {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: pink;
+    border: solid 1px;
+    border-radius: 15%;
+    display: inline-block;
+}
+.yellow {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: yellowgreen;
+    border: solid 1px;
+    border-radius: 15%;
+    display: inline-block;
+}
